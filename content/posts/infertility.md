@@ -11,10 +11,9 @@ tags:
 - population
 categories:
 - infertility
+---
 
 Infertility is one of the biggest problems facing today's Indian society. Fertility has fallen to an all-time low of 1.6 in cities and 2.1 in villages. Urura Fertility Centers are now springing up. In 2012 alone, over a thousand children were born through surrogacy. Half of them are children of foreign parents. The infertility diagnosis and treatment market in the country is growing at an annual rate of twelve and a half percent from 2022 to 2028. No other specialty is growing so fast in the field of medicine and health.
-
----
 
 India currently holds the top spot in terms of population, yet the abundance of fertility clinics offering procedures like IVF and surrogacy suggests otherwise. Such facilities outnumber traditional healthcare centers, highlighting the paradoxical nature of modern lifestyles. With approximately 3 crore individuals afflicted by infertility in India, according to estimates from the Indian Society of Assisted Reproduction, this issue represents a major challenge for contemporary society. While a fertility rate of 2.2 is considered a stabilizing factor known as the "replacement rate," India's fertility rate has dropped significantly below this threshold, reaching an alarmingly low level of 2.0 overall, 1.6 in urban areas, and 2.1 in rural regions. As a nation comprising a significant portion of youthful inhabitants during their reproductive stages, the severity of this dilemma demands immediate attention.
 
@@ -64,17 +63,17 @@ To summarize, there are various options available under assisted reproductive te
 
 #### Procedures illustrated
 
-Laparoscopy, Hysteroscopy: Problems like endometriosis, ovarian cysts, obstructions in the fallopian tubes can all be treated with minor laparoscopic surgery. Hysteroscopy is done for problems like fibroids and polyps in the uterus. This is also a mild treatment.
+__Laparoscopy, Hysteroscopy__: Problems like endometriosis, ovarian cysts, obstructions in the fallopian tubes can all be treated with minor laparoscopic surgery. Hysteroscopy is done for problems like fibroids and polyps in the uterus. This is also a mild treatment.
 
-Varicocelectomy: After analysis of sperm cells in men, it is enough to use drugs to increase the number quality and reduce infections if there are any. Medicines are also enough for hormone problems. Varicocele, a thickening of the blood vessels near the testicles, may require surgery. If there are no such problems and no children are born then...
+__Varicocelectomy__: After analysis of sperm cells in men, it is enough to use drugs to increase the number quality and reduce infections if there are any. Medicines are also enough for hormone problems. Varicocele, a thickening of the blood vessels near the testicles, may require surgery. If there are no such problems and no children are born then...
 
-IUI: Intrauterine insemination is a procedure in which the sperm cells are not able to reach the egg - directly into the uterus at the right time for the egg to be released.
+__IUI__: Intrauterine insemination is a procedure in which the sperm cells are not able to reach the egg - directly into the uterus at the right time for the egg to be released.
 
-IVF: All the eggs and sperm are fertilized in the laboratory and after the embryo is formed, it is inserted into the mother's womb. After that, the whole procedure is like a normal pregnancy. Before being implanted in the womb, the fetus is genetically tested to ensure that there are no defects.
+__IVF__: All the eggs and sperm are fertilized in the laboratory and after the embryo is formed, it is inserted into the mother's womb. After that, the whole procedure is like a normal pregnancy. Before being implanted in the womb, the fetus is genetically tested to ensure that there are no defects.
 
-ICSI: In this procedure, the sperm is injected directly into the egg. It is used when the sperm count is low and of poor quality.
+__ICSI__: In this procedure, the sperm is injected directly into the egg. It is used when the sperm count is low and of poor quality.
 
-Egg and Sperm Freezing: This is the method that is being chosen by those who want to wait for a while for a child. Eggs and sperm can be retrieved and stored at the age of high fertility, and children can be conceived whenever desired.
+__Egg and Sperm Freezing__: This is the method that is being chosen by those who want to wait for a while for a child. Eggs and sperm can be retrieved and stored at the age of high fertility, and children can be conceived whenever desired.
 
 It is also possible to preserve the embryo after fertilization in the IVF system. It has become a boon especially for those undergoing treatment for various types of cancer. This procedure is chosen as per the doctor's instructions before the start of chemotherapy. The embryo is preserved in a frozen state until the cancer treatment is completed. After that, the embryo is implanted in the womb and the pregnancy is carried out.
 
