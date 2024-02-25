@@ -1,5 +1,5 @@
 ---
-title: "Research Methods"
+title: "Research methods"
 date: 2021-01-12T09:55:46+05:30
 draft: false
 categories:
