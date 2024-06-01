@@ -53,7 +53,7 @@ str.foo // undefined
 
 `str` is a primitive string value. When you assign `1` to `str.foo`, JavaScript creates an ephemeral object for the string `"bar"`, adds the property foo with the value `1`, and then discards the ephemeral object. Therefore, the assignment does not modify the original string value of `str`. When you then try to access `str.foo`, JavaScript creates a new ephemeral object for the string `"bar"`, but since the previous ephemeral object was discarded, the property `foo` does not exist on the new object, and therefore returns `undefined`
 
-Links
+### Links
 - [Primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
 - [Data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Primitive data type](https://en.wikipedia.org/wiki/Primitive_data_type)
