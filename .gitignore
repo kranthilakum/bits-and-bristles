@@ -54,7 +54,7 @@ tags
 # Ignore everything in the "content" directory,
 # and "themes" directories.
 # content/*
-themes/*
+# themes/*
 # uncomment below if you dont want to load static img resources
 # !static/img
 
