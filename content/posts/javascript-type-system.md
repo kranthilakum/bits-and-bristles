@@ -1,6 +1,6 @@
 ---
 title: JavaScript type system
-date: 2016-08-13T08:55:46+05:30
+date: 2018-08-13T08:55:46+05:30
 draft: true
 categories:
 - "javascript"

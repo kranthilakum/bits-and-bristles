@@ -1,6 +1,6 @@
 ---
 title: JavaScript null vs undefined
-date: 2016-08-13T09:55:46+05:30
+date: 2018-08-13T09:55:46+05:30
 draft: false
 categories:
 - "javascript"

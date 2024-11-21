@@ -1,7 +1,7 @@
 ---
 id: javascript-merge-arrays-of-objects
 title: JavaScript - Merge Arrays of Objects
-date: 2016-08-15T08:55:46+05:30
+date: 2018-08-15T08:55:46+05:30
 draft: false
 categories:
 - "javascript"

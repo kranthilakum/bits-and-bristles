@@ -1,6 +1,6 @@
 ---
 title: JavaScript Primitive Types
-date: 2016-08-12T09:55:46+05:30
+date: 2018-08-12T09:55:46+05:30
 draft: false
 categories:
 - "javascript"
