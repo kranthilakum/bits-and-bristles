@@ -1,4 +1,4 @@
-This site is built with Hugo.
+[Bits-and-Bristles](https://bits-and-bristles.netlify.app) is built with Hugo.
 
 ## Development
 
